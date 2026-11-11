@@ -2,7 +2,6 @@
 *.o
 *.out
 *.exe
-task*
 a.out
 *.gcda
 *.gcno

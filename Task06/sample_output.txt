@@ -1,0 +1,5 @@
+$ ./run
+Hello C++ World
+true
+
+[exit code: 0]

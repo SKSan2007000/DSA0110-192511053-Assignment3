@@ -1,0 +1,4 @@
+$ ./run
+Ibuprofen ORS | Paracetamol Cetirizine | Paracetamol ORS
+
+[exit code: 0]

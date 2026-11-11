@@ -1,0 +1,7 @@
+$ ./run
+Rs 200.00
+true
+Rs 1.25
+Negative subtraction: -Rs 1.00
+
+[exit code: 0]

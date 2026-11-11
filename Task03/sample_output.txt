@@ -1,0 +1,16 @@
+$ ./run
+Event opened: 2 x 3
+Book (0,1): 1
+Book same seat: 0
+O X O 
+O O O 
+After cancel:
+O O O 
+O O O 
+Event closed: 6 seats checked
+Event opened: 0 x 4
+Event closed: 0 seats checked
+Event opened: 1 x 2
+Event closed: 2 seats checked
+
+[exit code: 0]

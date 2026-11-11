@@ -1,0 +1,6 @@
+$ ./run
+Series impedance: 10 + 3j (|Z|=10.4403)
+Parallel impedance: 2 + 4j (|Z|=4.47214)
+Error: division by zero impedance
+
+[exit code: 0]
