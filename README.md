@@ -40,14 +40,4 @@ Each task folder contains:
 | Task06 | Rules of Operator Overloading | Implemented and compiled |
 | Task07 | Complex-Number Class for AC Impedance | Implemented and compiled |
 
-## Report
-`REPORT.md` contains the cover-page details, design answers, predictions, explanations, complexity comparisons and engineering decisions.
 
-## Progressive Git commits
-The assignment asks for at least one commit per task. After creating the GitHub repository, commit each folder separately. The included `commit_task.sh` is a helper; it does not create a GitHub repository or push without your credentials.
-
-## Important
-The execution evidence was produced in this build environment. Re-run the programs on the machine used for submission if your faculty expects screenshots captured directly from your own terminal. Timings are machine-dependent and should be measured on that machine.
-
-## Environment note
-The normal C++17 `-Wall -Wextra` builds and program runs completed in the build environment. Selected AddressSanitizer binaries were also compiled, but this container could not initialise the ASan shadow-memory runtime. See `evidence/sanitizer_output.txt` in the selected task folders and rerun the ASan command on your own Ubuntu/WSL machine before submission. Benchmark timings are machine-dependent.
